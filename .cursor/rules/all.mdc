@@ -37,6 +37,8 @@ This project is my personal portfolio site to showcase my projects.
 
 ### Component Rules
 
+- The command for shadcn compoments look like this `npx shadcn@latest add card`
+
 #### Client Component Rules
 
 - Export client components as `export const MyComponent`
