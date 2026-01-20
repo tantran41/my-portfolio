@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-sky-50 dark:bg-zinc-900 flex items-center justify-center px-4 sm:px-6">
+    <div className="min-h-screen w-full flex items-center justify-center px-4 sm:px-6">
       {/* Content container with max width and centered text */}
       <div className="max-w-2xl mx-auto text-center">
         {/* Name heading with gradient text effect - sky-500 to blue-500 gradient */}
